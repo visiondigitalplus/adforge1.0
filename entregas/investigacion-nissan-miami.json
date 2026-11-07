@@ -1,0 +1,43 @@
+{
+  "consultas": [
+    {"q": "carros con down bajo miami", "tipo": "nicho exacto"},
+    {"q": "buy here pay here miami", "tipo": "nicho exacto"},
+    {"q": "financiamiento de carros sin credito miami", "tipo": "nicho exacto"},
+    {"q": "carros nissan usados miami", "tipo": "producto"},
+    {"q": "carro con 1500 de down", "tipo": "oferta"},
+    {"q": "costo de uber todos los dias", "tipo": "dolor"},
+    {"q": "no tengo credito y necesito carro", "tipo": "dolor"},
+    {"q": "carro para mi familia miami", "tipo": "deseo"},
+    {"q": "maneja tu carro hoy mismo", "tipo": "deseo"},
+    {"q": "aprobacion inmediata carro", "tipo": "mecanismo"},
+    {"q": "financiamiento con itin miami", "tipo": "mecanismo"},
+    {"q": "dealer hispano miami financiamiento", "tipo": "competencia"},
+    {"q": "caru cars", "tipo": "competencia"},
+    {"q": "i drive auto sales miami", "tipo": "competencia"},
+    {"q": "pagando semanal carro miami", "tipo": "prueba"},
+    {"q": "4500 preguntas carro credito miami", "tipo": "prueba"}
+  ],
+  "terminos": [
+    {"termino": "carros con down bajo en miami", "fuente": "Google", "intencion": "Comercial", "uso": "Gancho"},
+    {"termino": "buy here pay here miami", "fuente": "Google", "intencion": "Transaccional", "uso": "Cuerpo"},
+    {"termino": "financiamiento de carros sin credito", "fuente": "Google", "intencion": "Comercial", "uso": "Gancho"},
+    {"termino": "cuanto cuesta uber al mes", "fuente": "TikTok", "intencion": "Informativa", "uso": "Gancho"},
+    {"termino": "que necesito para financiar un carro sin credito", "fuente": "AnswerThePublic", "intencion": "Informativa", "uso": "Cuerpo"},
+    {"termino": "carro con 1500 de down", "fuente": "Google", "intencion": "Transaccional", "uso": "Landing"},
+    {"termino": "pagos semanales de carro miami", "fuente": "Google", "intencion": "Comercial", "uso": "Cuerpo"},
+    {"termino": "financiamiento con itin en florida", "fuente": "Google", "intencion": "Transaccional", "uso": "Objeción"},
+    {"termino": "dealer que no revisa credito", "fuente": "Reddit", "intencion": "Comparación", "uso": "Objeción"},
+    {"termino": "carro para trabajar en miami", "fuente": "TikTok", "intencion": "Comercial", "uso": "Gancho"},
+    {"termino": "nissan usado miami precio", "fuente": "Google", "intencion": "Comparación", "uso": "Cuerpo"},
+    {"termino": "me aprobaron el carro mismo dia", "fuente": "Instagram", "intencion": "Comercial", "uso": "Gancho"}
+  ],
+  "angulos": [
+    {"angulo": "Costo de la inacción", "razon": "En Miami el uber o los rides diarios cuestan 400-700 al mes y no dejan nada: el anuncio compara eso contra la mensualidad del carro.", "fuerza": 94},
+    {"angulo": "Resultado rápido", "razon": "La promesa del negocio es entrega inmediata; en este nicho manejar el mismo dia es el deseo literal.", "fuerza": 91},
+    {"angulo": "Objeción directa", "razon": "La objeción real es 'no tengo credito'. Los competidores de Miami lo atacan de frente ('no credit check') y funciona.", "fuerza": 90},
+    {"angulo": "Identidad", "razon": "El mercado es hispano en Hialeah, Doral, Kendall y Little Havana: ver a un dueño como ellos en el lote mueve la primera mirada.", "fuerza": 86},
+    {"angulo": "Prueba social", "razon": "El nicho desconfia de los dealers: una entrega real con la familia frente al carro vale mas que cualquier promesa.", "fuerza": 85},
+    {"angulo": "Precio / valor", "razon": "El down bajo y el pago semanal son el gancho de todo el sector en Miami (1,000 down vs 2,500 del promedio).", "fuerza": 83}
+  ],
+  "anuncios": []
+}
